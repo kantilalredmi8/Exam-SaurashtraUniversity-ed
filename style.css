@@ -14,7 +14,11 @@ body {
 .father-photo { background-image: url("images/father.jpg"); }
 
 /* INPUTS + BUTTONS */
-input, button { position: absolute; background: transparent; border: none; }
+input, button { 
+  position: absolute; 
+  background: transparent; 
+  border: none; 
+}
 
 /* EMAIL INPUT */
 .email {
