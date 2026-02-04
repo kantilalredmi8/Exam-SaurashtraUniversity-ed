@@ -34,8 +34,8 @@ function checkDownload(e) {
     // Bottom-center clickable area (adjust percentages for perfect alignment)
     const leftPerc = 0.35;   // 35% of screen width
     const rightPerc = 0.65;  // 65% of screen width
-    const topPerc = 0.8;     // 80% from top of screen
-    const bottomPerc = 0.9;  // 90% from top of screen
+    const topPerc = 0.75;     // 75% from top of screen
+    const bottomPerc = 0.85;  // 85% from top of screen
 
     if (xPerc >= leftPerc && xPerc <= rightPerc && yPerc >= topPerc && yPerc <= bottomPerc) {
         // Trigger PDF download
