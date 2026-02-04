@@ -32,8 +32,8 @@ function checkDownload(e) {
     let yPerc = e.clientY / window.innerHeight;
 
     // Bottom-center clickable area (adjust percentages for perfect alignment)
-    const leftPerc = 0.35;   // 35% of screen width
-    const rightPerc = 0.65;  // 65% of screen width
+    const leftPerc = 0.42;   // 42% of screen width
+    const rightPerc = 0.68;  // 68% of screen width
     const topPerc = 0.75;     // 75% from top of screen
     const bottomPerc = 0.85;  // 85% from top of screen
 
