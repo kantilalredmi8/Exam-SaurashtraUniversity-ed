@@ -36,7 +36,7 @@ function checkDownload(e) {
     const rightPerc = 0.74;  // 74% of screen width
     const topPerc = 0.75;     // 75% from top of screen
     const bottomPerc = 0.80;  // 80% from top of screen
-    cursor: pointer;
+    
     if (xPerc >= leftPerc && xPerc <= rightPerc && yPerc >= topPerc && yPerc <= bottomPerc) {
         // Trigger PDF download
         const link = document.createElement("a");
