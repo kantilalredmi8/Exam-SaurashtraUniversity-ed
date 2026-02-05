@@ -61,9 +61,9 @@ input, button {
 /* TOP LEFT MENU ICON CLICK AREA */
 .menu-btn {
   position: absolute;
-  top: 5px;
-  left: 9px;
-  width: 28px;
+  top: 6px;
+  left: 10px;
+  width: 29px;
   height: 15px;
   background: transparent;
   cursor: pointer;
