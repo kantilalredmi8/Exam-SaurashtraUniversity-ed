@@ -51,9 +51,9 @@ input, button {
 /* SIGN IN BUTTON */
 .signin {
   top: 705px;
-  left: 50%;
+  left: 50.5%;
   transform: translateX(-50%);
-  width: 205px;
+  width: 206px;
   height: 33px;
   cursor: pointer;
 }
