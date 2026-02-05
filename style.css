@@ -63,9 +63,9 @@ input, button {
 /* MENU PAGE → SMALL CLICK AREA (THIS IS IMPORTANT) */
 .menu-click {
   position: absolute;
-  top: 223px;
-  left: 13px;
-  width: 36px;
-  height: 13px;
+  top: 265px;
+  left: 18px;
+  width: 18px;
+  height: 6px;
   cursor: pointer;
 }
